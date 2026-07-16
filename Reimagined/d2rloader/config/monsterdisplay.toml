@@ -1,0 +1,20 @@
+# Monster Display
+# Restart the game after changing these options.
+#
+# JSON widget map:
+#   Name                         = monster name
+#   HPValue                      = PC monster HP text
+#   HPValueScreen                = controller screen-anchored HP text
+#   HPValueTarget                = controller target-attached HP text
+#   ResistanceRowCompact         = compact resistance row
+#   ResistanceRowNormal          = normal resistance row
+#   Additional                   = vanilla immunity text
+#
+# Layout files:
+#   data/global/ui/layouts/hudmonsterhealthhd.json
+#   data/global/ui/layouts/controller/hudmonsterhealthhd.json
+#   data/global/ui/layouts/controller/pc/hudmonsterhealthhd.json
+
+[monster-display]
+show-resistances = true
+show-monster-hp = true
