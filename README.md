@@ -59,7 +59,7 @@ Diablo II Resurrected\mods
 
 ### 2. Install and configure D2RLoader
 
-Join the **[D2RLoader Discord](https://discord.gg/eEHT2kcBMf)** and download D2RLoader from its download category.
+Open the **[D2RLoader link](https://discord.gg/eEHT2kcBMf)**, then download the latest release from the project's **Download** category.
 
 After extracting the D2RLoader archive, move all three items shown below into the Diablo II Resurrected installation folder containing `D2R.exe`.
 
