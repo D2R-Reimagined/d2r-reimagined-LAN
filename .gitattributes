@@ -1,4 +1,4 @@
-*.txt       -text
+*.txt       text eol=crlf
 *.json      -text
 *.lua       -text
 *.tbl       -text
