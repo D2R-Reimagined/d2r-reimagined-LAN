@@ -3,7 +3,7 @@
     "fields": {
         "priority": -100,
         "anchor": { "x": 0.5 },
-        "rect": { "x": -500, "y": 103, "width": 1000, "height": 74 },
+        "rect": { "x": -500, "y": 112, "width": 1000, "height": 74 },
     },
     "children": [
         {
@@ -42,6 +42,18 @@
                         }
                     }
                 },
+                {
+                    "type": "TextBoxWidget", "name": "LevelValue",
+                    "fields": {
+                        "anchor": { "x": 0.5, "y": 0.5 },
+                        "rect": { "y": -112 },
+                        "style": {
+                            "pointSize": "$MediumFontSize",
+                            "alignment": { "h": "center", "v": "center" },
+                            "options": { "pipeCharacterBehavior": "handle" }
+                        }
+                    }
+                },
             ]
         },
         {
@@ -49,6 +61,32 @@
             "fields": {
                 "anchor": { "x": 0.5 },
                 "rect": { "y": 83 },
+                "style": {
+                    "fontFace": "Formal",
+                    "pointSize": "$MediumFontSize",
+                    "alignment": { "h": "center" },
+                    "options": { "pipeCharacterBehavior": "handle" }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget", "name": "AuraCompact",
+            "fields": {
+                "anchor": { "x": 0.5 },
+                "rect": { "y": 83 },
+                "style": {
+                    "fontFace": "Formal",
+                    "pointSize": "$MediumFontSize",
+                    "alignment": { "h": "center" },
+                    "options": { "pipeCharacterBehavior": "handle" }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget", "name": "AuraNormal",
+            "fields": {
+                "anchor": { "x": 0.5 },
+                "rect": { "y": 128 },
                 "style": {
                     "fontFace": "Formal",
                     "pointSize": "$MediumFontSize",
@@ -82,12 +120,38 @@
                     "options": { "pipeCharacterBehavior": "handle" }
                 }
             }
-        },        
+        },
+        {
+            "type": "TextBoxWidget", "name": "ResistanceRowExpand",
+            "fields": {
+                "anchor": { "x": 0.5 },
+                "rect": { "y": 173 },
+                "style": {
+                    "fontFace": "Formal",
+                    "pointSize": "$MediumFontSize",
+                    "alignment": { "h": "center" },
+                    "options": { "pipeCharacterBehavior": "handle" }
+                }
+            }
+        },
         {
             "type": "TextBoxWidget", "name": "Additional",
             "fields": {
                 "anchor": { "x": 0.5 },
                 "rect": { "y": 183 },
+                "style": {
+                    "fontFace": "Formal",
+                    "pointSize": "$MediumFontSize",
+                    "alignment": { "h": "center" },
+                    "options": { "pipeCharacterBehavior": "handle" }
+                }
+            }
+        },
+        {
+            "type": "TextBoxWidget", "name": "AdditionalExpand",
+            "fields": {
+                "anchor": { "x": 0.5 },
+                "rect": { "y": 228 },
                 "style": {
                     "fontFace": "Formal",
                     "pointSize": "$MediumFontSize",
