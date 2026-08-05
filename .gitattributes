@@ -1,8 +1,8 @@
 *.txt       text eol=crlf
-*.json      -text
+*.json      text eol=crlf
 *.lua       -text
 *.tbl       -text
-*.timelines -text
+*.timelines text eol=crlf
 
 *.bin binary
 *.sprite binary
