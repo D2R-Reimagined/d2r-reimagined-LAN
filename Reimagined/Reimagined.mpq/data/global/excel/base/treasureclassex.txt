@@ -5,33 +5,28 @@ Gold 1x			1					0	Void	3	gld,mul=1024	1																										0
 Gold 1.5x			1					0	Void	3	gld,mul=1536	1																										0
 Gold 2x			1					0	Void	3	gld,mul=2048	1																										0
 Gold 2.5x			1					0	Void	3	gld,mul=2560	1																										0
-Infusion Orb (Normal)			1					0	ooi	1																									1			0
-Assemblage Orb (Normal)			1					0	ooa	1																									1			0
-Conversion Orb (Normal)			1					0	ooc	1																									1			0
-Corruption Orb (Normal)			1					0	ka3	1																									1			0
-Infusion Orb			1					0	1oi	1																									1			0
-Assemblage Orb			1					0	1oa	1																									1			0
-Conversion Orb			1					0	1oc	1																									1			0
-Socket Orb			1					0	1os	1																									1			0
-Corruption Orb			1					0	1ka	1																									1			0
-Shadow Orb			1					0	1oe	1																									1			0
-Renewal Orb			1					0	1or	1																									1			0
+Infusion Orb			1					0	ooi	1																									1			0
+Assemblage Orb			1					0	ooa	1																									1			0
+Conversion Orb			1					0	ooc	1																									1			0
+Socket Orb			1					0	oos	1																									1			0
+Corruption Orb			1					0	ka3	1																									1			0
+Shadow Orb			1					0	ooe	1																									1			0
+Renewal Orb			1					0	oor	1																									1			0
 Gem Cluster			1					0	1gc	1																									1			0
 Pandemonium Key A			1					0	pk1	1																									1			0
 Pandemonium Key B			1					0	pk2	1																									1			0
 Pandemonium Key C			1					0	pk3	1																									1			0
 Pandemonium Keys			1					0	pk1	1	pk2	1	pk3	1																					1			0
-Jewelry Orbs Single			1					0	Infusion Orb (Normal)	3	Assemblage Orb (Normal)	1	Conversion Orb (Normal)	1																					1			0
-Jewelry Orbs Stack			1					0	Infusion Orb	3	Assemblage Orb	1	Conversion Orb	1																					1			0
+Jewelry Orbs			1					0	Infusion Orb	3	Assemblage Orb	1	Conversion Orb	1																					1			0
 Sunder Charms			1					2400	PreCrafted Cold Rupture	1	PreCrafted Flame Rift	1	PreCrafted Crack of the Heavens	1	PreCrafted Rotting Fissure	1	PreCrafted Bone Break	1	PreCrafted Black Cleft	1															1			0
 Norm TZ Generic			1					114	Corruption Orb	1																									1			0
 NMH Boss			1					114	Socket Orb	1																									1			0
 NM TZ Generic			1					114	Socket Orb	1	Corruption Orb	1																							1			0
-Hell TZ Generic			1					740	Gem Cluster	7	Socket Orb	6	Corruption Orb	6	Pandemonium Keys	4	Renewal Orb	2	Shadow Orb	2															1			0
-Hell TZ Boss			1					750	Gem Cluster	7	Socket Orb	7	Corruption Orb	7	Shadow Orb	2																			1			0
-Jewelry A			1					25	rin	175	amu	75	jew	50	cm3	50	cm2	50	cm1	50	Jewelry Orbs Single	25																0
-Jewelry B			1					25	rin	175	amu	75	jew	50	cm3	50	cm2	50	cm1	50	Jewelry Orbs Stack	25																0
-Jewelry C			1					25	rin	150	amu	74	jew	74	cm3	49	cm2	49	cm1	49	Jewelry Orbs Stack	30																0
+Hell TZ Generic			1					740	Gem Cluster	7	Socket Orb	6	Corruption Orb	6	Pandemonium Keys	4	Renewal Orb	2	Shadow Orb	1															1			0
+Hell TZ Boss			1					750	Gem Cluster	7	Socket Orb	7	Corruption Orb	7	Shadow Orb	1																			1			0
+Jewelry A			1					25	rin	175	amu	75	jew	50	cm3	50	cm2	50	cm1	50	Jewelry Orbs	25																0
+Jewelry B			1					25	rin	175	amu	75	jew	50	cm3	50	cm2	50	cm1	50	Jewelry Orbs	25																0
+Jewelry C			1					25	rin	150	amu	74	jew	74	cm3	49	cm2	49	cm1	49	Jewelry Orbs	30																0
 Gem			1					0	gmm	1	gmt	1	gms	1	gme	1	gmd	1	gmr	1	gmk	1	gmo	1														0
 Gem Stack			0					0	1am	1	1tp	1	1sa	1	1em	1	1di	1	1rb	1	1sk	1	1so	1														0
 Misc			1					0	tsc	1	isc	1	Void	2																								0
@@ -43,23 +38,23 @@ Normal Potion	12		2					0	Potion 2	1																												0
 Good Potion	12	40	2					0	Potion 3	1																												0
 Super Potion	12	70	2					0	Potion 4	1																												0
 Ammo			1					0	aqv	1	cqv	1																										0
-Runes 1			1					0	s01	3	s02	2																										0
-Runes 2			1					0	s03	3	s04	2	Runes 1	2																								0
-Runes 3			1					0	s05	3	s06	2	Runes 2	5																								0
-Runes 4			1					0	s07	3	s08	2	Runes 3	7																								0
-Runes 5			1					0	s09	3	s10	2	Runes 4	12																								0
-Runes 6			1					0	s11	3	s12	2	Runes 5	25																								0
-Runes 7			1					0	s13	3	s14	2	Runes 6	45																								0
-Runes 8			1					0	s15	3	s16	2	Runes 7	50																								0
-Runes 9			1					0	s17	3	s18	2	Runes 8	70																								0
-Runes 10			1					0	s19	3	s20	2	Runes 9	90																								0
-Runes 11			1					0	s21	3	s22	2	Runes 10	120																								0
-Runes 12			1					0	s23	3	s24	2	Runes 11	150																								0
-Runes 13			1					0	s25	3	s26	2	Runes 12	180																								0
-Runes 14			1					0	s27	3	s28	2	Runes 13	210																								0
-Runes 15			1					0	s29	3	s30	2	Runes 14	240																								0
-Runes 16			1					0	s31	3	s32	2	Runes 15	260																								0
-Runes 17			1					0	s33	1	Runes 16	280																										0
+Runes 1			1					0	r01	3	r02	2																										0
+Runes 2			1					0	r03	3	r04	2	Runes 1	2																								0
+Runes 3			1					0	r05	3	r06	2	Runes 2	5																								0
+Runes 4			1					0	r07	3	r08	2	Runes 3	7																								0
+Runes 5			1					0	r09	3	r10	2	Runes 4	12																								0
+Runes 6			1					0	r11	3	r12	2	Runes 5	25																								0
+Runes 7			1					0	r13	3	r14	2	Runes 6	45																								0
+Runes 8			1					0	r15	3	r16	2	Runes 7	50																								0
+Runes 9			1					0	r17	3	r18	2	Runes 8	70																								0
+Runes 10			1					0	r19	3	r20	2	Runes 9	90																								0
+Runes 11			1					0	r21	3	r22	2	Runes 10	120																								0
+Runes 12			1					0	r23	3	r24	2	Runes 11	150																								0
+Runes 13			1					0	r25	3	r26	2	Runes 12	180																								0
+Runes 14			1					0	r27	3	r28	2	Runes 13	210																								0
+Runes 15			1					0	r29	3	r30	2	Runes 14	240																								0
+Runes 16			1					0	r31	3	r32	2	Runes 15	260																								0
+Runes 17			1					0	r33	1	Runes 16	280																										0
 Act 1 Terrorize Act Consumable Desecrated	40		1					3170	xa1	5	xa2	3	xa3	2	xa4	2	xa5	1														"cond('Difficulty', hell)"			1		40	0
 Act 2 Terrorize Act Consumable Desecrated	41		1					3170	xa1	3	xa2	5	xa3	2	xa4	1	xa5	2														"cond('Difficulty', hell)"			1		40	0
 Act 3 Terrorize Act Consumable Desecrated	42		1					3170	xa1	1	xa2	2	xa3	5	xa4	3	xa5	2														"cond('Difficulty', hell)"			1		40	0
@@ -1171,9 +1166,9 @@ Duriel (H) - Desecrated D	34	96	-3	983	983	983	1024	0	Hell TZ Boss	1	Sunder Char
 Durielq - Item			7					5	Act 3 Good	4	Act 3 Equip A	30																										0
 Durielq (N) - Item			7					5	Act 3 (N) Good	4	Act 3 (N) Equip A	30																										0
 Durielq (H) - Item			7					5	Act 3 (H) Good	4	Act 3 (H) Equip A	30																										0
-Durielq			-2	993	993	1024	1024	0	Infusion Orb (Normal)	1	Durielq - Item	1																										0
-Durielq (N)			-2	993	993	1024	1024	0	Infusion Orb (Normal)	1	Durielq (N) - Item	1																										0
-Durielq (H)			-2	993	993	1024	1024	0	Infusion Orb (Normal)	1	Durielq (H) - Item	1																										0
+Durielq			-2	993	993	1024	1024	0	Infusion Orb	1	Durielq - Item	1																										0
+Durielq (N)			-2	993	993	1024	1024	0	Infusion Orb	1	Durielq (N) - Item	1																										0
+Durielq (H)			-2	993	993	1024	1024	0	Infusion Orb	1	Durielq (H) - Item	1																										0
 Battlemaiden Item			5					10	Act 3 Good	3	Act 3 Equip A	20	Potion 1	15	Gold 1.5x	14																						0
 Battlemaiden Item Desecrated A			5					10	Act 3 Good	3	Act 3 Equip A	20	Potion 1	15	Gold 1.5x	14																						0
 Battlemaiden Item Desecrated B			5					10	Act 3 Good	3	Act 3 Equip C	20	Potion 1	15	Gold 1.5x	14																						0
@@ -1261,9 +1256,9 @@ Mephisto (H) Desecrated D	22	96	-3	983	983	983	1024	0	Hell TZ Boss	1	Sunder Char
 Mephistoq Item			7					5	Act 4 Good	3	Act 4 Equip A	52																										0
 Mephistoq Item (N)			7					5	Act 4 (N) Good	3	Act 4 (N) Equip A	52																										0
 Mephistoq Item (H)			7					5	Act 4 (H) Good	3	Act 4 (H) Equip A	52																										0
-Mephistoq			-2	993	993	1024	1024	0	Assemblage Orb (Normal)	1	Mephistoq Item	1																										0
-Mephistoq (N)			-2	993	993	1024	1024	0	Assemblage Orb (Normal)	1	Mephistoq Item (N)	1																										0
-Mephistoq (H)			-2	993	993	1024	1024	0	Assemblage Orb (Normal)	1	Mephistoq Item (H)	1																										0
+Mephistoq			-2	993	993	1024	1024	0	Assemblage Orb	1	Mephistoq Item	1																										0
+Mephistoq (N)			-2	993	993	1024	1024	0	Assemblage Orb	1	Mephistoq Item (N)	1																										0
+Mephistoq (H)			-2	993	993	1024	1024	0	Assemblage Orb	1	Mephistoq Item (H)	1																										0
 Izual Item			5					5	Act 4 Good	3	Act 4 Equip B	25	Potion 2	15	Gold 1.5x	14																						0
 Izual Item Desecrated A	32	29	5					5	Act 4 Good	3	Act 4 Equip B	25	Potion 2	15	Gold 1.5x	14																						0
 Izual Item Desecrated B	32	38	5					5	Act 5 Good	3	Act 5 Equip C	25	Potion 2	15	Gold 1.5x	14																						0
@@ -1343,9 +1338,9 @@ Diablo (H) Desecrated B	23	96	-3	983	983	983	1024	0	Hell TZ Boss	1	Sunder Charms
 Diabloq Item			7					5	Act 5 Good	4	Act 5 Equip A	30																										0
 Diabloq Item (N)			7					5	Act 5 (N) Good	4	Act 5 (N) Equip A	30																										0
 Diabloq Item (H)			7					5	Act 5 (H) Good	4	Act 5 (H) Equip A	30																										0
-Diabloq			-2	993	993	1024	1024	0	Conversion Orb (Normal)	1	Diabloq Item	1																										0
-Diabloq (N)			-2	993	993	1024	1024	0	Conversion Orb (Normal)	1	Diabloq Item (N)	1																										0
-Diabloq (H)			-2	993	993	1024	1024	0	Conversion Orb (Normal)	1	Diabloq Item (H)	1																										0
+Diabloq			-2	993	993	1024	1024	0	Conversion Orb	1	Diabloq Item	1																										0
+Diabloq (N)			-2	993	993	1024	1024	0	Conversion Orb	1	Diabloq Item (N)	1																										0
+Diabloq (H)			-2	993	993	1024	1024	0	Conversion Orb	1	Diabloq Item (H)	1																										0
 Frozenstein Item			5					10	Act 5 Good	3	Act 5 Equip A	25	Potion 2	15	Gold 1.5x	14																						0
 Frozenstein Item Desecrated A			5					10	Act 5 Good	3	Act 5 Equip A	25	Potion 2	15	Gold 1.5x	14																						0
 Frozenstein Item Desecrated B			5					10	Act 5 Good	3	Act 5 Equip C	25	Potion 2	15	Gold 1.5x	14																						0
@@ -1403,9 +1398,9 @@ Baal (H) Desecrated	29	99	-3	983	983	983	1024	0	Hell TZ Boss	1	Sunder Charms	1	B
 Baalq Item			7					5	Act 1 (N) Good	4	Act 1 (N) Equip A	30																										0
 Baalq Item (N)			7					5	Act 1 (H) Good	4	Act 1 (H) Equip A	30																										0
 Baalq Item (H)			7					5	Act 5 (H) Good	4	Act 5 (H) Equip B	30																										0
-Baalq			-2	993	993	1024	1024	0	Corruption Orb (Normal)	1	Baalq Item	1																										0
-Baalq (N)			-2	993	993	1024	1024	0	Corruption Orb (Normal)	1	Baalq Item (N)	1																										0
-Baalq (H)			-2	993	993	1024	1024	0	Corruption Orb (Normal)	1	Baalq Item (H)	1																										0
+Baalq			-2	993	993	1024	1024	0	Corruption Orb	1	Baalq Item	1																										0
+Baalq (N)			-2	993	993	1024	1024	0	Corruption Orb	1	Baalq Item (N)	1																										0
+Baalq (H)			-2	993	993	1024	1024	0	Corruption Orb	1	Baalq Item (H)	1																										0
 Cow King Item			5					0	Act 1 Uitem C	1	Act 1 Melee B	2																										0
 Cow King Item Desecrated A			5					0	Act 4 Uitem B	3	Act 4 Melee B	6																										0
 Cow King Item Desecrated B			5					0	Act 1 (N) Uitem A	3	Act 1 (N) Melee A	6																										0

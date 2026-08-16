@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "metadata": {
+    "modVersion": "3.0.10",
+    "author": "Reimagined",
+    "description": "LAN version of Reimagined.",
+    "website": "https://discord.gg/5c2GrFQReE"
+  },
+  "d2rloader": {
+    "version": "1.0.1"
+  }
+}
